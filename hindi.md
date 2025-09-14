@@ -1,15 +1,15 @@
-# What is Git?
+# Git kya hai?
 
-**Git** is a tool used by developers to **track versions of code and files**.  
+**Git** ek tool hai jo developers use karte hain **code aur files ke versions track karne ke liye**.  
 
-Think of it like working on a document:  
-- Every time you make changes, you save a new version (`file_v1`, `file_v2`, `final_file`, etc.).  
-- This quickly becomes messy.  
+Socho tum ek document par kaam kar rahe ho:  
+- Har baar change karne par tum naya version save karte ho (`file_v1`, `file_v2`, `final_file`, etc.).  
+- Yeh process jaldi hi messy ho jata hai.  
 
-Git solves this problem by:  
-- ✅ Automatically saving each change as a **version**  
-- ✅ Allowing you to **check old versions** anytime  
-- ✅ Letting you **undo mistakes** easily  
-- ✅ Helping multiple people work on the same project by **merging changes**  
+Git is problem ko solve karta hai:  
+- ✅ Har change ko automatically ek **version** ke roop me save karta hai  
+- ✅ Tum purane versions ko kabhi bhi **check** kar sakte ho  
+- ✅ Agar galti ho jaye to easily **undo** kar sakte ho  
+- ✅ Agar multiple log ek hi project par kaam kar rahe ho to Git unke changes ko **merge** kar deta hai  
 
-👉 In short: **Git is like a time machine + teamwork tool for code and files.**
+👉 Simple shabdon me: **Git ek time machine + teamwork tool hai code aur files ke liye.**
