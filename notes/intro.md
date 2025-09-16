@@ -72,3 +72,9 @@ Once Git is installed, open your **terminal** (or Command Prompt / PowerShell on
 
 ```bash
 git --version
+```
+
+---
+---
+
+➡️ Next: [Configuration](./configuration.md)

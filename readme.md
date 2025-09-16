@@ -9,3 +9,4 @@ Each file in this repo covers a different topic. Use this README as a reference 
 | File | Description |
 |------|-------------|
 | [intro.md](./notes/intro.md) | Introduction to Git and how to install it |
+| [configuration.md](./notes/configuration.md) | Basic Git configuration settings |
