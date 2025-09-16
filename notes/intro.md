@@ -78,3 +78,5 @@ git --version
 ---
 
 ➡️ Next: [Configuration](./configuration.md)
+
+➡️ Next (Optional): [VS Code Configuration](./vs_code_configuration.md)

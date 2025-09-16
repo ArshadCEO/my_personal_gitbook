@@ -29,3 +29,5 @@ git config --global init.defaultBranch main
 
 > In the past, **`master`** was used as the default branch name in Git.  
 > Nowadays, you’ll more commonly see **`main`** as the default branch name.
+
+---

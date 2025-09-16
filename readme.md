@@ -10,3 +10,4 @@ Each file in this repo covers a different topic. Use this README as a reference 
 |------|-------------|
 | [intro.md](./notes/intro.md) | Introduction to Git and how to install it |
 | [configuration.md](./notes/configuration.md) | Basic Git configuration settings |
+| [vs_code_configuration.md](./notes/vs_code_configuration.md) | Basic VS Code configuration settings (Optional) |
