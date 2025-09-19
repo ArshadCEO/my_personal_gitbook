@@ -1,4 +1,4 @@
-[⬅️ Back to Index](./readme.md)
+[⬅️ Back to Index](../readme.md)
 
 # 📂 What is a Repository?
 
