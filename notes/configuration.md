@@ -31,3 +31,5 @@ git config --global init.defaultBranch main
 > Nowadays, you’ll more commonly see **`main`** as the default branch name.
 
 ---
+
+➡️ Next: [Git Basic](./git_basic.md)
